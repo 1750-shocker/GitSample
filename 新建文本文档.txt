@@ -7,6 +7,12 @@
 7
 8
 9
+<<<<<<< HEAD
 abc
 def
 kitty
+=======
+10
+11
+qwerty
+>>>>>>> leaf1
